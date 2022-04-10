@@ -21,7 +21,7 @@
 
 ---
 
-# Hyzer Whatsapp MD
+# Rull Whatsapp MD
 ## Information
 > HyBot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
@@ -127,8 +127,8 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/Hyzerr/Hyzer-MD-V2
-cd Hyzer-MD-V2
+git clone https://github.com/Arullaja/RulMd
+cd RulMd
 yarn
 mc
 ganti session
