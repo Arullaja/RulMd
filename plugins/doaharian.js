@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
   await m.reply(global.wait)
-  let res = await fetch(global.API('xteam','/religi/doaharian', {}, 'APIKEY'))
+  let res = await fetch(global.API('xteam','/religi/doaharian', {}, 'd37372311698ed1d'))
   let json = await res.json()
   if (res.status != 200) throw json
   if (json.result.error) throw json.result.message
