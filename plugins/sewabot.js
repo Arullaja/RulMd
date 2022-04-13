@@ -34,7 +34,7 @@ let handler = async (m, { conn }) => {
 _https://chat.whatsapp.com/Cy8O89Fw3KFDMEbKtC5NxN_
 
 ▌│█║▌║▌║║▌║▌║█│▌
-`.trim(), `${wm}`, 'Payment', '#payment', 'Owner', '#Nowner', m)
+`.trim(), `${wm}`, 'Payment', '#payment', 'Owner Ganteng🗿', '#owner', m)
 }
 
 handler.help = ['sewa', 'sewabot']
@@ -43,4 +43,4 @@ handler.command = /^sewa(bot)?$/i
 
 module.exports = handler
 
-let wm = global.botwm
+let wm = global.wm
