@@ -39,7 +39,7 @@ _https://chat.whatsapp.com/Cy8O89Fw3KFDMEbKtC5NxN_
 ▌│█║▌║▌║║▌║▌║█│▌
 ▌│█║▌║▌║║▌║▌║█│▌
 `.trim()
-conn.send2ButtonLoc(m.chat,await (await fetch(fla + 'Premium')).buffer(), info, `${botol}`, `🐾 Owner`, `.owner`, 'Payment','.payment', m)
+conn.send2ButtonLoc(m.chat,await (await fetch(fla + 'Premium')).buffer(), info, `${botol}`, `🐾 Owner`, `.owner`, 'Payment','#payment', m)
 } 
 handler.help = ['premium']
 handler.tags = ['info']
