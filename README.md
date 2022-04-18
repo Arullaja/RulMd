@@ -27,8 +27,9 @@
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 > • NOTE: INI SC GAK BISA BUAT SESSION DI TERMUX YA, JADI KALIAN CARI SESSION DULU PAKAI SC LAIN 
-> • rekomendasi sc buat cari session [disini](https://github.com/ilmanhdyt/ShiraoriBOT-Md)
->atau [disini](https://github.com/DikaArdnt/Hisoka-Morou) tq DikaArdnt & ilmanhdyt
+> • rekomendasi sc buat cari session [disini](https://github.com/ilmanhdyt/ShiraoriBOT-Md)      
+>   atau [disini](https://github.com/DikaArdnt/Hisoka-Morou) tq DikaArdnt & ilmanhdyt
+>
 > • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus:v, 
 > 
 > • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku
